@@ -1,5 +1,5 @@
 {
-  "Departments": [
+  "departments": [
     {
       "id": 10,
       "departmentName": "Administration",
