@@ -1,0 +1,298 @@
+{
+  "Departments": [
+    {
+      "id": 10,
+      "departmentName": "Administration",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 20,
+      "departmentName": "Marketing",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 30,
+      "departmentName": "Transportation",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 40,
+      "departmentName": "Shipping",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 50,
+      "departmentName": "Human Resources",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 60,
+      "departmentName": "Operations",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 70,
+      "departmentName": "Inventory",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 80,
+      "departmentName": "Sales",
+      "managerId": 145,
+      "locationId": 2500
+    },
+    {
+      "id": 100,
+      "departmentName": "Finance",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 110,
+      "departmentName": "Documentation",
+      "managerId": null,
+      "locationId": null
+    },
+    {
+      "id": 130,
+      "departmentName": "Billing",
+      "managerId": null,
+      "locationId": 1700
+    },
+    {
+      "id": 140,
+      "departmentName": "Control And Credit",
+      "managerId": null,
+      "locationId": 1700
+    }
+  ],
+  "employees": [
+    {
+      "id": 100,
+      "firstName": "Steven",
+      "lastName": "King",
+      "email": "SKING",
+      "phoneNumber": "515.123.4567",
+      "hireDate": "1987-06-17",
+      "salary": 24000,
+      "departmentId": 90,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png"
+    },
+    {
+        "id": 101,
+        "firstName": "Neena",
+        "lastName": "Kochhar",
+        "email": "NKOCHHAR",
+        "phoneNumber": "515.123.4568",
+        "hireDate": "1989-09-21",
+        "salary": 17000,
+        "departmentId": 90,
+        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/2.png"
+    },
+    {
+        "id": 102,
+        "firstName": "Lex",
+        "lastName": "De Haan",
+        "email": "LDEHAAN",
+        "phoneNumber": "515.123.4569",
+        "hireDate": "1993-01-13",
+        "salary": 17000,
+        "departmentId": 90,
+        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/3.png"
+    },
+    {
+      "id": 103,
+      "firstName": "Alexander",
+      "lastName": "Hunold",
+      "email": "AHUNOLD",
+      "phoneNumber": "590.423.4567",
+      "hireDate": "1990-01-03",
+      "salary": 9000,
+      "departmentId": 60,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png"
+    },
+    {
+      "id": 105,
+      "firstName": "David",
+      "lastName": "Austin",
+      "email": "DAUSTIN",
+      "phoneNumber": "590.423.4569",
+      "hireDate": "1997-06-25",
+      "salary": 4800,
+      "departmentId": 60,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png"
+    },
+    {
+      "id": 106,
+      "firstName": "Valli",
+      "lastName": "Pataballa",
+      "email": "VPATABAL",
+      "phoneNumber": "590.423.4560",
+      "hireDate": "1998-02-05",
+      "salary": 4800,
+      "departmentId": 60,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png"
+    },
+    {
+      "id": 107,
+      "firstName": "Diana",
+      "lastName": "Lorentz",
+      "email": "DLORENTZ",
+      "phoneNumber": "590.423.5567",
+      "hireDate": "1999-02-07",
+      "salary": 4200,
+      "departmentId": 60,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png"
+    },
+    {
+      "id": 108,
+      "firstName": "Nancy",
+      "lastName": "Greenberg",
+      "email": "NGREENBE",
+      "phoneNumber": "515.124.4569",
+      "hireDate": "1994-08-17",
+      "salary": 12000,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/8.png"
+    },
+    {
+      "id": 109,
+      "firstName": "Daniel",
+      "lastName": "Faviet",
+      "email": "DFAVIET",
+      "phoneNumber": "515.124.4169",
+      "hireDate": "1994-08-17",
+      "salary": 9000,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png"
+    },
+    {
+      "id": 110,
+      "firstName": "John",
+      "lastName": "Chen",
+      "email": "JCHEN",
+      "phoneNumber": "515.124.4269",
+      "hireDate": "1997-09-28",
+      "salary": 8200,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png"
+    },
+    {
+      "id": 111,
+      "firstName": "Ismael",
+      "lastName": "Sciarra",
+      "email": "ISCIARRA",
+      "phoneNumber": "515.124.4369",
+      "hireDate": "1997-09-30",
+      "salary": 7700,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/11.png"
+    },
+    {
+      "id": 112,
+      "firstName": "Jose Manuel",
+      "lastName": "Urman",
+      "email": "JMURMAN",
+      "phoneNumber": "515.124.4469",
+      "hireDate": "1998-03-07",
+      "salary": 7800,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/12.png"
+    },
+    {
+      "id": 113,
+      "firstName": "Luis",
+      "lastName": "Popp",
+      "email": "LPOPP",
+      "phoneNumber": "515.124.4567",
+      "hireDate": "1999-12-07",
+      "salary": 6900,
+      "departmentId": 100,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/13.png"
+    },
+    {
+      "id": 114,
+      "firstName": "Den",
+      "lastName": "Raphaely",
+      "email": "DRAPHEAL",
+      "phoneNumber": "515.127.4561",
+      "hireDate": "1994-12-07",
+      "salary": 11000,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png"
+    },
+    {
+      "id": 115,
+      "firstName": "Alexander",
+      "lastName": "Khoo",
+      "email": "AKHOO",
+      "phoneNumber": "515.127.4562",
+      "hireDate": "1995-05-18",
+      "salary": 3100,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png"
+    },
+    {
+      "id": 116,
+      "firstName": "Shelli",
+      "lastName": "Baida",
+      "email": "SBAIDA",
+      "phoneNumber": "515.127.4563",
+      "hireDate": "1997-12-24",
+      "salary": 2900,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png"
+    },
+    {
+      "id": 117,
+      "firstName": "Sigal",
+      "lastName": "Tobias",
+      "email": "STOBIAS",
+      "phoneNumber": "515.127.4564",
+      "hireDate": "1997-07-24",
+      "salary": 2800,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png"
+    },
+    {
+      "id": 118,
+      "firstName": "Guy",
+      "lastName": "Himuro",
+      "email": "GHIMURO",
+      "phoneNumber": "515.127.4565",
+      "hireDate": "1998-11-15",
+      "salary": 2600,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/18.png"
+    },
+    {
+      "id": 119,
+      "firstName": "Karen",
+      "lastName": "Colmenares",
+      "email": "KCOLMENA",
+      "phoneNumber": "515.127.4566",
+      "hireDate": "1999-08-10",
+      "salary": 2500,
+      "departmentId": 30,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/9.png"
+    },
+    {
+      "id": 120,
+      "firstName": "Matthew",
+      "lastName": "Weiss",
+      "email": "MWEISS",
+      "phoneNumber": "650.123.1234",
+      "hireDate": "1996-07-18",
+      "salary": 8000,
+      "departmentId": 50,
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png"
+    }
+  ]
+}
